@@ -100,9 +100,6 @@ Press **Ctrl+C** to stop and generate the report. Use Windows Terminal or PowerS
 | `syspulse_incidents.log` | Snapshot of top processes and likely culprit for each incident |
 | `syspulse_report.html` | Session summary, graphs, incident root-cause table, event timeline |
 
-## Screenshots
-
-_Add screenshots here: dashboard, incident log, HTML report._
 
 ## Known limitations (v1.0)
 
@@ -149,8 +146,4 @@ SysPulse v1.0 is intended as a foundation. Planned directions:
 
 ## Author
 
-[Your Name] · Built for [Hackathon Name] · v1.0
-
-## License
-
-MIT (or your choice)
+Pradeep M K · v1.0
